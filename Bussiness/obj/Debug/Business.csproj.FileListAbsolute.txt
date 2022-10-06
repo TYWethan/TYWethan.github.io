@@ -1,0 +1,9 @@
+D:\郭鹏\自己做的\Bussiness\bin\Debug\Bussiness.dll
+D:\郭鹏\自己做的\Bussiness\bin\Debug\Bussiness.pdb
+D:\郭鹏\自己做的\Bussiness\bin\Debug\DataAccess.dll
+D:\郭鹏\自己做的\Bussiness\bin\Debug\Entity.dll
+D:\郭鹏\自己做的\Bussiness\bin\Debug\DataAccess.pdb
+D:\郭鹏\自己做的\Bussiness\bin\Debug\Entity.pdb
+D:\郭鹏\自己做的\Bussiness\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\郭鹏\自己做的\Bussiness\obj\Debug\Bussiness.dll
+D:\郭鹏\自己做的\Bussiness\obj\Debug\Bussiness.pdb
